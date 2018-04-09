@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mighty Data Airtel Backend</string>
+    <string name="accessibility_description">This service records pop ups sent by your mobile operator, and saves them in USSDService App. It is
+absolutely safe to use</string>
+</resources>
